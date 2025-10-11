@@ -2,7 +2,7 @@
 
 ## I am currently lear learning Robtics and Artificial Intelligence at Edge Hill University in NW England.
 
-## I have a passion for botony and love astronomy.
+## I have a passion for botony and love all things astronomy.
 
 <!--
 **Isaac-D-Ritchie/Isaac-D-Ritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
