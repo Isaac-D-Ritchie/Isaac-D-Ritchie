@@ -1,6 +1,6 @@
 ## Hi there, my name is Isaac.
 
-## I am currently lear learning Robtics and Artificial Intelligence at Edge Hill University in NW England.
+## I am currently learning Robtics and Artificial Intelligence at Edge Hill University in NW England.
 
 ## I have a passion for botony and love all things astronomy.
 
